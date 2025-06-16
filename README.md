@@ -10,7 +10,8 @@ chmod is a powerful tool to enforce least-privilege.
 
 Always double-check changes to ensure security policy compliance.
 
-Security Principles Practiced
+
+Security Principles Practiced:
 
 Least Privilege: Limit access rights for users to the bare minimum.
 
@@ -18,7 +19,8 @@ Defense in Depth: Secure sensitive directories and hidden files.
 
 Audit & Monitor: Continuously assess permissions to avoid unauthorized exposure.
 
-Resources
+
+Resources:
 
 man chmod
 
@@ -26,7 +28,8 @@ man ls
 
 Linux File Permissions Tutorial
 
-Lessons Learned
+
+Lessons Learned:
 
 A small change in permissions can lead to a major security breach if not controlled.
 
